@@ -22,5 +22,6 @@ you qualify before applying or you will be rejected immediately.
 - Must have an XDA-thread for their current builds.
 - Device sources should not have any Kang and proper
   authorship of commits should be maintained.
+- The device must have everything working (Wifi, Bluetooth, Hotspot, Camera, Calls, etc..).
 - The maintainer must know how to fix his device 
   specific bugs.

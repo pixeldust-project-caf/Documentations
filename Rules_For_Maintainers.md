@@ -15,4 +15,5 @@ These are the basic rules for **Developers & Maintainers** of
   ROM source provides at that moment.
 - The device must not have any outside dependencies. All dependencies
   must be open sourced and ready to be fork with proper commit history.
+- Builds should be tested before public release.
 - Maintainers must provide changelogs for each build.
