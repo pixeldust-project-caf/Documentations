@@ -27,3 +27,10 @@ you qualify before applying or you will be rejected immediately.
 - The device must have everything working (Wifi, Bluetooth, Hotspot, Camera, Calls, etc..).
 - The maintainer must know how to fix his device 
   specific bugs.
+
+## Important Links
+- [Download Portal](https://sourceforge.net/projects/pixeldustproject/files/ota/)
+- [PixelDust Devices](https://github.com/pixeldust-devices)
+- [Discord Server](https://discord.gg/MQt9KQc)
+- [Telegram Channel](https://t.me/pixeldustproject)
+- [Telegram Group](https://t.me/pixeldustcommunity)
