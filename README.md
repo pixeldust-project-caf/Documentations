@@ -2,7 +2,7 @@
 
 ## Guidelines
 All the maintainers are requested to follow the guidelines
-mentioned [**here**](null). Be respectful to users & other
+mentioned [**here**](https://github.com/PixelDust-Project-X/Documentations/raw/master/Rules_For_Maintainers.md). Be respectful to users & other
 maintainers.
 
 ## Applying For Official Support
