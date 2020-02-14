@@ -1,4 +1,6 @@
-# Documentations & Thread Template for The PixelDust Project
+# Documentations & Thread Template For PixelDust Project
+
+![pixeldust](https://raw.githubusercontent.com/PixelDust-Project-X/Documentations/master/pixeldust.png)
 
 ## Guidelines
 All the maintainers are requested to follow the guidelines
