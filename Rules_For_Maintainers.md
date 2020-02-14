@@ -1,9 +1,9 @@
 These are the basic rules for **Developers & Maintainers** of 
-**The PixelDust Project". 
+**The PixelDust Project**. 
 
 ## Rules
 - Maintainers must behave properly & be friendly with other members,
-  They **must not** troll, insult, use hate words, do personal attacks
+  They must not troll, insult, use hate words, do personal attacks
   or any action that is unacceptable towards the creation of a positive
   environment.
 - The sources of the device being used must be open for forking, inspection

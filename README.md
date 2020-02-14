@@ -1,4 +1,4 @@
-# Documentations and Thread Template for The PixelDust Project
+# Documentations & Thread Template for The PixelDust Project
 
 ## Guidelines
 All the maintainers are requested to follow the guidelines
@@ -9,6 +9,8 @@ maintainers.
 If you want to maintain your device officially then you must
 fulfill the requirements mentioned below, Also make sure that
 you qualify before applying or you will be rejected immediately.
+
+**Fill out [This Form](https://forms.gle/eAXLG2XJcxsbzPKR7) & wait for our response**
 
 ## Requirements For Maintainers
 - A maintainer must be familiar with Github & have
