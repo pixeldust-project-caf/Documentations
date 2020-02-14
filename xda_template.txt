@@ -1,0 +1,162 @@
+Thread title:
+
+[ROM][device][10.0] PixelDust Android 10 for {device}
+
+OP template:
+
+[CENTER][img]https://abload.de/img/banner10fkkfp.png[/img][/CENTER]
+
+[B]PixelDust ROM[/B] is an Android 10 ROM especially built for Google Pixel and Nexus devices.
+
+The code is based off directly from AOSP. We strive to keep the PixelDust Experience as close as possible to Android as Google intended. We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. 
+The PixelDust Crew would highly appreciate if you would take a little of your time and leave your valuable feedback, your honest opinion or just say hello. If you should encounter a bug, or some kind of glitch that seems to be abnormal and you are pretty sure that it is related to the ROM (and not related to any special apps or mods you flashed on top), then please give as many details as possible.
+
+Special shoutouts to [URL="https://forum.xda-developers.com/member.php?u=5545371"]Roger.T[/URL] for his amazingly designed wallpapers, logos and the best bootanimation I ever had on my Pixel!!! If you like our work, please consider to [URL="https://www.paypal.me/RogerTruttmann"]buy Roger the first beer[/URL], and a few more for the other team members and [URL="https://www.paypal.me/spezi77"]spezi77[/URL]. Cheers!
+
+
+BTW, please consider to take a logcat, because you know that: 
+
+[QUOTE=DespairFactor]If you submit bug reports without a log, you may be prosecuted...or executed.[/QUOTE]
+
+
+[B][COLOR="Red"]Disclaimer:[/COLOR][/B]
+If your device fails to comply with your standards of what you consider functioning, I am not liable. This is provided free of charge and does not come with a warranty. Although, if you provide a log, I can provide some sort of assurance that I will look into your issue.
+
+
+[IMG="Listing of features"]https://abload.de/img/listingoffeaturesnuj5z.png[/IMG]
+[HIDE]
+* Periodic AOSP security updates
+* Pixel GApps included (no need to flash any third party GApps)
+* Pixel 4 wallpapers :)
+* PixelDust Launcher
+* Enhanced theming engine (big thanks to DirtyUnicorns for their commits)
+
+[B][U]Additional QS tiles[/U][/B]
+* Always On Display
+* Caffeine
+* Language
+* LTE
+* NFC
+* PixelDust Settings
+* Screenshot (Partial/Full/Longshot)
+* and many more
+
+[B][U]Display[/U][/B]
+* Theming: Dark/black themes, Accent colors, Fonts, Icon shapes
+
+[B][U]Lock screen display[/U][/B]
+* Battery level on bottom
+* Ambient music ticker
+* Charging info
+
+[B][U]Security[/U][/B]
+* Lock screen PIN quick unlock
+
+[B][U]System Gestures[/U][/B]
+* Swipe fingerprint for notifications
+* Swipe fingerprint left or right to dismiss notifications
+* Volume rocker skips music tracks
+* Three-fingers-swipe to screenshot
+
+[B][U]PixelDust Wallpapers[/U][/B]
+* A set of 15 breathtaking space themed Wallpapers
+
+[B][U]Theme options[/U][/B]
+* Themes: Choose between 48 different accent colors, 8 different clock interfaces and more
+* Style: Automatic, Light, Google dark, Pitch black, Solarized dark
+
+[B][U]Status bar[/U][/B]
+* Status bar icon whitelist
+* Network traffic display
+* Clock & date settings
+* Battery settings
+
+[B][U]Quick settings[/U][/B]
+* Vibrate on touch
+* Secure tiles require unlocking
+* Display clock in QS header
+* Brightness slider on/off toggle
+* Brightness slider bottom
+* Status bar pulls down Quick Settings
+
+[B][U]Buttons[/U][/B]
+* Accidental touch
+* Screen off power button torch
+* Volume Settings: Playback control, Volume wake, Volume steps
+* Volume Panel
+
+[B][U]Navigation bar[/U][/B]
+* Invert layout of Navbar buttons
+
+[B][U]Gestures[/U][/B]
+* Status bar dt2s
+* Lock screen dt2s
+
+[B][U]Lock screen[/U][/B]
+* Left & right lock screen shortcuts
+* Fingerprint authentication vibration
+* Pocket detection
+* Media cover art
+* Media artwork blur level
+* Music viusualizer
+* Lock screen charging animation
+
+[B][U]Power menu[/U][/B]
+* Disable power menu when locked
+* Power Menu options incl. advanced Restart options and many more
+
+[B][U]Notifications[/U][/B]
+* Edge lighting
+* Ambient display brightness
+* Ambient notification brightness
+
+[B][U]Misc[/U][/B]
+* Wake up on charge
+* Rounded corners
+
+[/HIDE]
+
+[B][COLOR="Blue"]Not working:[/COLOR][/B][HIDE]
+
+[/HIDE]
+
+[IMG="Links"]https://abload.de/img/links4rjc1.png[/IMG]
+[HIDE]
+[B][COLOR="Red"]Terms & conditions:[/COLOR][/B]
+By downloading this custom ROM you agree that I, the developer of PixelDust ROM, am not liable in any way, shape or form for any damage done to your device. The PixelDust ROM is provided free of charge and does not come with a warranty.
+
+[B][U]Downloads:[/U][/B]
+* {Download URL}
+* {Further URL}
+
+[IMG="Social media"]https://abload.de/img/socialmedia5ljkh.png[/IMG]
+[B]Telegram Discussion Channel:[/B] [url]https://t.me/pixeldustcommunity[/url]
+[B]Telegram Announcements Channel:[/B] [url]https://t.me/pixeldustproject[/url]
+[B]Discord Server:[/B] [url]https://discord.gg/ANtVnW8[/url]
+
+[/HIDE]
+
+[IMG="Installation guide"]https://abload.de/img/installationguidemmkme.png[/IMG]
+[HIDE]
+[B][U]Pre-requisites:[/U][/B]
+* You are familiar with helping yourself out of awkward situations. You won't defame or complain at the developer of this ROM for your misfortunes.
+* You are familiar with using fastboot
+* Bootloader unlocked
+* You have created a backup of your ROM & data
+
+[B][U]First time installing PixelDust ROM, or coming from another ROM:[/U][/B]
+
+[B][U]Dirty flashing PixelDust ROM:[/U][/B]
+
+[/HIDE]
+
+
+[IMG="Credits"]https://abload.de/img/creditsi9kfj.png[/IMG]
+
+Thanks to all development teams, e.g. ABC ROM, AICP, AOKP, AOSPA, AOSP Extended, BenzoROM, Bootleggers, CarbonROM, crDroid, DirtyUnicorns, Havoc OS, LOS, MSM-Xtended Project, OmniROM, Potatoes Project and PureNexus, we borrowed a few features and tweaks from.
+
+
+
+[IMG="Kernel source"]https://abload.de/img/kernelsourceemjy3.png[/IMG]
+[B]Source code:[/B]
+* {Github URL}
