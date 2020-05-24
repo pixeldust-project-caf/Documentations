@@ -8,7 +8,7 @@ OP template:
 
 [B]PixelDust ROM[/B] is an Android 10 ROM especially built for Google Pixel and Nexus devices.
 
-The code is based off directly from AOSP. We strive to keep the PixelDust Experience as close as possible to Android as Google intended. We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. 
+We rebased the project to Code Aurora Sources, more commonly known as CAF. CAF ROMs are therefore generally considered to be more optimized for Qualcomm’s Snapdragon SoCs than AOSP ROMs (in performance, RAM management, battery, etc.). We strive to keep the PixelDust Experience as close as possible to Android as Google intended. We add a decent selection of the coolest custom ROM features that would've been missed if they hadn't been included. 
 The PixelDust Crew would highly appreciate if you would take a little of your time and leave your valuable feedback, your honest opinion or just say hello. If you should encounter a bug, or some kind of glitch that seems to be abnormal and you are pretty sure that it is related to the ROM (and not related to any special apps or mods you flashed on top), then please give as many details as possible.
 
 Special shoutouts to [URL="https://forum.xda-developers.com/member.php?u=5545371"]Roger.T[/URL] for his amazingly designed wallpapers, logos and the best bootanimation I ever had on my Pixel!!! If you like our work, please consider to [URL="https://www.paypal.me/RogerTruttmann"]buy Roger the first beer[/URL], and a few more for the other team members and [URL="https://www.paypal.me/spezi77"]spezi77[/URL]. Cheers!
@@ -25,7 +25,7 @@ If your device fails to comply with your standards of what you consider function
 
 [IMG="Listing of features"]https://abload.de/img/listingoffeaturesnuj5z.png[/IMG]
 [HIDE]
-* Periodic AOSP security updates
+* Periodic CAF/AOSP security updates
 * Pixel GApps included (no need to flash any third party GApps)
 * Pixel 4 wallpapers :)
 * PixelDust Launcher
@@ -63,7 +63,7 @@ If your device fails to comply with your standards of what you consider function
 
 [B][U]Theme options[/U][/B]
 * Themes: Choose between 48 different accent colors, 8 different clock interfaces and more
-* Style: Automatic, Light, Google dark, Pitch black, Solarized dark
+* Style: Automatic, Light, Google dark, Pitch black, Solarized dark, Black Coffee
 
 [B][U]Status bar[/U][/B]
 * Status bar icon whitelist
@@ -132,6 +132,7 @@ By downloading this custom ROM you agree that I, the developer of PixelDust ROM,
 [IMG="Social media"]https://abload.de/img/socialmedia5ljkh.png[/IMG]
 [B]Telegram Discussion Channel:[/B] [url]https://t.me/pixeldustcommunity[/url]
 [B]Telegram Announcements Channel:[/B] [url]https://t.me/pixeldustproject[/url]
+[B]Telegram Build Support Channel:[/B] [url]https://t.me/compile_pixeldust[/url]
 [B]Discord Server:[/B] [url]https://discord.gg/ANtVnW8[/url]
 
 [/HIDE]
