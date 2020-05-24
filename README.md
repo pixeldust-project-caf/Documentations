@@ -33,5 +33,6 @@ you qualify before applying or you will be rejected immediately.
 - [Download Portal](https://sourceforge.net/projects/pixeldustproject/files/ota/)
 - [PixelDust Devices](https://github.com/pixeldust-devices)
 - [Discord Server](https://discord.gg/MQt9KQc)
-- [Telegram Channel](https://t.me/pixeldustproject)
-- [Telegram Group](https://t.me/pixeldustcommunity)
+- [Telegram Announcements Channel](https://t.me/pixeldustproject)
+- [Telegram Discussion Group](https://t.me/pixeldustcommunity)
+- [Telegram Build Support Group](https://t.me/compile_pixeldust)
