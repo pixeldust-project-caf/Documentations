@@ -29,7 +29,7 @@ you qualify before applying or you will be rejected immediately.
   specific bugs.
 
 ## Important Links
-- [XDA template](https://raw.githubusercontent.com/PixelDust-Project-X/Documentations/master/xda_template.txt)
+- [XDA template](https://raw.githubusercontent.com/pixeldust-project-caf/Documentations/master/xda_template.txt)
 - [Download Portal](https://sourceforge.net/projects/pixeldustproject/files/ota/)
 - [PixelDust Devices](https://github.com/pixeldust-devices)
 - [Discord Server](https://discord.gg/MQt9KQc)
