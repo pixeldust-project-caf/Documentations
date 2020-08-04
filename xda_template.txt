@@ -35,14 +35,13 @@ If your device fails to comply with your standards of what you consider function
 * Always On Display
 * Caffeine
 * Language
-* LTE
 * NFC
 * PixelDust Settings
 * Screenshot (Partial/Full/Longshot)
 * and many more
 
 [B][U]Display[/U][/B]
-* Theming: Dark/black themes, Accent colors, Fonts, Icon shapes
+* Theming: Dark/black themes, Accent colors, Fonts, Icon shapes, QS tile styles
 
 [B][U]Lock screen display[/U][/B]
 * Battery level on bottom
@@ -74,9 +73,14 @@ If your device fails to comply with your standards of what you consider function
 [B][U]Quick settings[/U][/B]
 * Vibrate on touch
 * Secure tiles require unlocking
+* Battery percentage
+* Battery estimate
 * Display clock in QS header
+* Footer brightness slider
 * Brightness slider on/off toggle
 * Brightness slider bottom
+* Auto brightness icon
+* Min-Max icon
 * Status bar pulls down Quick Settings
 
 [B][U]Buttons[/U][/B]
@@ -86,7 +90,10 @@ If your device fails to comply with your standards of what you consider function
 * Volume Panel
 
 [B][U]Navigation bar[/U][/B]
+* Navbar visibility toggle
+* Layout (normal, compact, left-leaning, right-leaning)
 * Invert layout of Navbar buttons
+* Show arrow keys while typing
 
 [B][U]Gestures[/U][/B]
 * Status bar dt2s
@@ -98,7 +105,6 @@ If your device fails to comply with your standards of what you consider function
 * Pocket detection
 * Media cover art
 * Media artwork blur level
-* Music viusualizer
 * Lock screen charging animation
 
 [B][U]Power menu[/U][/B]
@@ -106,18 +112,23 @@ If your device fails to comply with your standards of what you consider function
 * Power Menu options incl. advanced Restart options and many more
 
 [B][U]Notifications[/U][/B]
-* Edge lighting
+* Notifications light
+* Battery charging light
 * Ambient display brightness
 * Ambient notification brightness
+* Edge lighting
 
 [B][U]Misc[/U][/B]
+* Pulse for NavBar, LockScreen and Ambient Screen
+* Gaming Mode
 * Wake up on charge
 * Rounded corners
+* Disable device identifier restrictions
 
 [/HIDE]
 
 [B][COLOR="Blue"]Not working:[/COLOR][/B][HIDE]
-
+* ---
 [/HIDE]
 
 [IMG="Links"]https://abload.de/img/links4rjc1.png[/IMG]
